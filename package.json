@@ -14,7 +14,8 @@
 		"lint": "prettier --check . && eslint ."
 	},
 	"dependencies": {
-		"bulma": "^1.0.3"
+		"bulma": "^1.0.3",
+		"sass": "^1.85.0"
 	},
 	"devDependencies": {
 		"@eslint/compat": "^1.2.5",
